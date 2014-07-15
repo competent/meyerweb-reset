@@ -1,0 +1,23 @@
+{
+  "name": "meyerweb-reset",
+  "version": "1.0.20080212",
+  "authors": [
+    "James Fry <james.fry@jrfsolutions.co.uk>",
+    "Hywel Bennett <hyweldt@gmail.com>"
+  ],
+  "description": "Eric Meyer's CSS Tools: Reset CSS",
+  "main": [
+    "reset.css",
+    "_reset.scss"
+  ],
+  "keywords": [
+    "Meyer",
+    "css",
+    "reset",
+    "scss"
+  ],
+  "license": "Public Domain",
+  "ignore": [
+    "**/.*"
+  ]
+}
